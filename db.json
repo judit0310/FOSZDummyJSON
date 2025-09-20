@@ -1,0 +1,15 @@
+{
+  "tanulok": [
+    {
+      "nev":"Peti",
+      "varos":"Miskolc",
+      "kor":12
+    },
+    {
+      "nev":"Miki",
+      "varos":"Onga",
+      "kor":13
+    }
+  ]
+  
+}
