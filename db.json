@@ -1,11 +1,13 @@
 {
   "tanulok": [
     {
+      "id":1,
       "nev":"Peti",
       "varos":"Miskolc",
       "kor":12
     },
     {
+      "id":2,
       "nev":"Miki",
       "varos":"Onga",
       "kor":13
